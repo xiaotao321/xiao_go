@@ -1,2 +1,2 @@
-# xt1
-my first repository
+# xiao_go
+record my frist go
